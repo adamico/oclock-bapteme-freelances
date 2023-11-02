@@ -1,4 +1,4 @@
-Chèr.e **apprenant.e 1**, voici comme demandé mon feedback sur ton rendu pour l'atelier solo : *triple triad deck builder*.
+Chèr.e **apprenant.e 4**, voici comme demandé mon feedback sur ton rendu pour l'atelier solo : *triple triad deck builder*.
 
 Tout d'abord bravo 👍 pour ton travail, ce n'était pas facile mais ton app fonctionne et c'est l'essentiel. Par contre si tu nous a demandé un feedback c'est probablement car certains points te semblent obscurs ou nécessitent des retours plus détaillés.
 
@@ -12,10 +12,8 @@ Essayons de voir ensemble ce qui n'a pas fonctionné dans ton code :
 
 C'est pas mal du tout, 2/3! Tu as probablement déjà compris comment corriger, il suffit juste d'enlever la ligne 8 `<% for (const singleCard of card) { %>` et tout fonctionne bien.
 
-### Etape  2
+### Etape  2 & 3
+Houston we have a problem! 🚀
 
-
-### Etape 3
-
-
-N'hésites pas à revenir vers moi si tu as besoin de plus d'explications sur mon feedback
+Ce n'était pas ton jour, je crois, ça arrive aux meilleurs ! Je pense qu'il faudrait que l'on reprenne ça plus en détails pour essayer de décortiquer ensemble ce qui a posé plus de problèmes.
+On se prends un moment pour voir tout ça tranquillement ?
